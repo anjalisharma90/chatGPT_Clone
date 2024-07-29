@@ -15,6 +15,8 @@ app.py: Main application file with Streamlit code.
 requirements.txt: Python dependencies for the project.
 .gitignore: Files and directories to be ignored by Git.
 Contributing
+
+
 Contributions are welcome! Fork the repository and use a feature branch. Pull requests are reviewed regularly.
 
 
