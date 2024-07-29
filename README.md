@@ -17,7 +17,4 @@ requirements.txt: Python dependencies for the project.
 Contributing
 Contributions are welcome! Fork the repository and use a feature branch. Pull requests are reviewed regularly.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 
